@@ -5,5 +5,5 @@
 - **Specializes in consensus-layer and networking-level vulnerabilities** across major L1 protocols  
 
 ## Contact
-- 🐦 **Twitter:** [@bronze_pickaxe](https://twitter.com/bronze_pickaxe)  
-- 💬 **Discord:** `bronze_pickaxe`
+- **X** [@br0nz3p1ck4x3](https://twitter.com/br0nz3p1ck4x3)  
+- **Discord** `bronze_pickaxe`
