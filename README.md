@@ -6,4 +6,4 @@
 
 ## Contact
 - **X** [@br0nz3p1ck4x3](https://twitter.com/br0nz3p1ck4x3)  
-- **Discord** `bronze_pickaxe`
+- **Discord** `br0nz3p1ck4x3`
