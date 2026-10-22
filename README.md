@@ -7,3 +7,4 @@
 ## Contact
 - **X** [@br0nz3p1ck4x3](https://twitter.com/br0nz3p1ck4x3)  
 - **Telegram** [@bp_at_bpsec](https://t.me/bp_at_bpsec)
+- **infosec.exchange** [@br0nz3p1ck4x3](https://infosec.exchange/@br0nz3p1ck4x3)
